@@ -7,7 +7,7 @@ module.exports = {
     // 自定义网站 favicon
     head: [['link', { rel: 'icon', href: 'images/logo.png' }]],
     // 根路径，和仓库名一致
-    base: '/liulian-Blog/',
+    base: '/Blog/',
     // 左上角标题
     title: 'liulian-Blog',
     // markdown 相关配置
