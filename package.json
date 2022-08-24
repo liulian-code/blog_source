@@ -1,0 +1,15 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liulian-code/Blog.git",
+  "author": "liulian <318723757@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.50"
+  }
+}
