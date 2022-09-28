@@ -19,7 +19,8 @@ module.exports = {
     theme: defaultTheme({
         // 配置左上角的 logo
         logo: 'images/logo.png',
-        home: '/docs/index.md',
+        //点击左上角logo跳转地址
+        home: '/',
         // 导航栏
         navbar: navbar,
         // 侧边栏
