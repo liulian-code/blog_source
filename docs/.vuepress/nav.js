@@ -1,7 +1,7 @@
 const navbar = [
     {
         text: 'how to build Blog',
-        link: '/notes/vuepress/vuepress.md',
+        link: '/notes/vuepress/vuepress',
     },
     {
         text: '前端学习笔记',
@@ -31,8 +31,8 @@ const navbar = [
             },
         ],
     },
-    { text: '个人项目', link: '' },
-    { text: '踩坑记录', link: '' },
-    { text: '面试题汇总', link: '' }
+    { text: '工作经历', link: '/notes/works/世诺科贸.md' },
+    // { text: '开发踩坑记录', link: '/notes/others/开发踩坑记录.md' },
+    // { text: '面试题汇总', link: '/notes/works/面试题汇总.md' }
 ]
 export default navbar   

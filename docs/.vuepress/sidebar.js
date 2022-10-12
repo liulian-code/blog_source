@@ -12,4 +12,5 @@ export default {
     '/notes/npm': ['/notes/npm/index.md'],
     '/notes/nodejs': node_siderbar,
     '/notes/webpack': ['/notes/webpack/webpack基础.md'],
+    '/notes/works': ['/notes/works/世诺科贸.md', '/notes/works/三德信息.md'],
 }
